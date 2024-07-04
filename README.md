@@ -1,2 +1,2 @@
-//Complex Thinking and Computational Tinkering 
-///Explo 2024
+Complex Thinking and Computational Tinkering 
+Explo 2024
